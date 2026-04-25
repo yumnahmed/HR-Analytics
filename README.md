@@ -23,7 +23,7 @@ The dashboard provides insights to support HR decision-making and improve employ
 * Parameters
 * Calculated Fields
 
-* 
+
 ## 📂 Dataset
 
 The dataset includes:
